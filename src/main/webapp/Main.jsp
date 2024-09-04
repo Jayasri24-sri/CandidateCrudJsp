@@ -14,8 +14,8 @@
     <h1 class="mb-4">--WELCOME--</h1>
 
     <!-- Updated Buttons with Bootstrap -->
-    <a href="insert" class="btn btn-success mb-2">ADD details</a>
-    <a href="fetch" class="btn btn-info mb-2">SHOW details</a>
+    <a href="insert" class="btn btn-success mb-2">ADD  details</a>
+    <a href="fetch" class="btn btn-info mb-2">SHOW  details</a>
 </div>
 
 <!-- Adding Bootstrap JS (optional, for using Bootstrap JS components) -->
